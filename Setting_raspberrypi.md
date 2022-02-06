@@ -30,7 +30,7 @@ network={
 create a file named ssh without any code and put the sd card back in your rapberry
  
 
-##set up ssh
+## Set up ssh
 Default name : pi
 Default password : raspberry
 Default hostname : raspberrypi
