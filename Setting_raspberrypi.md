@@ -6,7 +6,7 @@ https://www.raspberrypi.org/downloads/raspberry-pi-os/
 ```
 
 Downmoad balena etcher to transfer the zip file onto the sd card of your raspberry
-````
+```
 https://www.balena.io/etcher/
 ```
 on balena etcher upload the OS zip onto the root sd card
@@ -35,7 +35,7 @@ Default password : raspberry
 Default hostname : raspberrypi
 
 in your terminal write
-````
+```
 ssh pi@raspberrypi.local
 ````
 enter the default password and the connection is established via ssh
