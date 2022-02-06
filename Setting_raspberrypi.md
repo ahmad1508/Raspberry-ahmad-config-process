@@ -16,6 +16,7 @@ once it's done put the sd card back in the raspberry
 ## Set up wifi 
 put your sd card in your computer and create a file named wpa_supplicant.conf
 and write the following code
+
 ```
 country=//country 2 letter code
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
@@ -35,6 +36,7 @@ Default password : raspberry
 Default hostname : raspberrypi
 
 in your terminal write
+
 ```
 ssh pi@raspberrypi.local
 ````
@@ -43,7 +45,7 @@ enter the default password and the connection is established via ssh
 ```
 sudo apt-get update;
 sudo apt-get upgrade;
-````
+```
 to make sure everything is up to date
 
 
